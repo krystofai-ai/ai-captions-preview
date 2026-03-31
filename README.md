@@ -9,20 +9,13 @@ Nahraj video → AI přepíše → Upravíš editor → Exportuješ s titulky
 ---
 ## 🚀 Spuštění za 5 minut
 
-### 1. Klonuj repo
-
-```bash
-git clone https://github.com/krystofai-ai/ai-captions-app.git
-cd ai-captions-app
-```
-
-### 2. Nainstaluj závislosti
+### 1. Nainstaluj závislosti
 
 ```bash
 npm install
 ```
 
-### 3. Nastav OpenAI API klíč
+### 2. Nastav OpenAI API klíč
 
 Vytvoř soubor `.env.local`:
 
@@ -39,7 +32,7 @@ OPENAI_API_KEY=sk-tvůj-klíč-zde
 > Klíč získáš na [platform.openai.com](https://platform.openai.com/api-keys) zdarma (potřebuješ kredit ~$5 na start)
 > Cena transkripce: **$0.006 za minutu videa**
 
-### 4. Spusť
+### 3. Spusť
 
 ```bash
 npm run dev
