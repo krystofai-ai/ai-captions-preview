@@ -37,7 +37,7 @@ Celý postup — krok za krokem, včetně promptů a rozhodnutí které jsem dě
 
 Přidej se a postav to taky — krok za krokem, od nuly.
 
-**[→ Makers Club](https://www.skool.com/makers-club)**
+**[→ Makers Club](https://www.skool.com/makers-club-7388/about)**
 
 *@krystof_ai*
 
