@@ -2,7 +2,27 @@
 
 Nahrál jsem video, řekl Claudovi co chci — a za hodinu vznikla plně funkční aplikace na titulky.
 
-Žádný kurz. Žádné tutoriály. Jen správný prompt.
+Žádný kurz. Žádné tutoriály. Jen správný prompty.
+
+Nahraj video → AI přepíše → Upravíš editor → Exportuješ s titulky
+
+---
+
+## 🏗️ Jak to funguje
+
+### Architektura
+
+```
+Nahraj video
+    ↓
+/api/upload         → uloží video lokálně
+    ↓
+/api/transcribe     → FFmpeg extrahuje audio → OpenAI Whisper → word timestamps
+    ↓
+Editor              → VideoPlayer (9:16) + TranscriptEditor + StylePanel
+    ↓
+/api/export         → FFmpeg vypálí .ass titulky do videa → MP4
+```
 
 ---
 
