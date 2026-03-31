@@ -47,7 +47,7 @@ Otevři **http://localhost:3000** 🎉
 ### Architektura
 
 ```
-Nahraj video
+Napromptuj svůj claude -> Nahraj video
     ↓
 /api/upload         → uloží video lokálně
     ↓
