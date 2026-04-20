@@ -87,7 +87,7 @@ Celý postup — krok za krokem, včetně promptů a rozhodnutí které jsem dě
 
 <img src="headshot.jpg" width="180" />
 
-### Celý postup je v Makers Clubu
+### Celý postup je v Makers Clubu Claude Code PRO
 
 Přidej se a postav to taky — krok za krokem, od nuly.
 
