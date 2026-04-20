@@ -91,7 +91,7 @@ Celý postup — krok za krokem, včetně promptů a rozhodnutí které jsem dě
 
 Přidej se a postav to taky — krok za krokem, od nuly.
 
-**[→ Makers Club](https://www.skool.com/makers-club-7388/about)**
+**[→ Makers Club]([https://www.skool.com/makers-club-7388/about](https://www.skool.com/makers-club-7388/classroom/318c52a6?md=96935eaa88d3482c9a03dc962cae1050))**
 
 *@krystof_ai*
 
